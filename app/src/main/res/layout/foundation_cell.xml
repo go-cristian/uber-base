@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:id="@+id/view"
+  style="@style/UITheme.Container.Margin"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:orientation="horizontal"
+  tools:context=".MainActivity"
+  >
+
+  <dev.cgomez.uber.base.blocks.CircleView
+    android:id="@+id/color"
+    android:layout_width="36dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    tools:background="@color/black"
+    />
+
+  <LinearLayout
+    style="@style/UITheme.Inner"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <TextView
+      android:id="@+id/label"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:textAppearance="@style/UITheme.Typography.Label"
+      tools:text="Example"
+      />
+
+    <TextView
+      android:id="@+id/paragraph"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:textAppearance="@style/UITheme.Typography.Paragraph"
+      tools:text="Example"
+      />
+  </LinearLayout>
+
+</LinearLayout>

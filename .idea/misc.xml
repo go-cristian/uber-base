@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/caret.xml" value="0.2205" />
+        <entry key="app/src/main/res/layout/button_circle.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/button_layout.xml" value="0.19655521783181357" />
+        <entry key="app/src/main/res/layout/button_square.xml" value="0.19655521783181357" />
+        <entry key="app/src/main/res/layout/buttons.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/foundation_cell.xml" value="0.19655521783181357" />
+        <entry key="app/src/main/res/layout/grid.xml" value="0.19655521783181357" />
+        <entry key="app/src/main/res/layout/icon.xml" value="0.19655521783181357" />
+        <entry key="app/src/main/res/layout/list.xml" value="0.19655521783181357" />
+        <entry key="app/src/main/res/layout/main.xml" value="0.19655521783181357" />
+        <entry key="app/src/main/res/layout/main_activity.xml" value="0.10740740740740741" />
+        <entry key="app/src/main/res/layout/main_cell.xml" value="0.19655521783181357" />
+        <entry key="app/src/main/res/layout/progress.xml" value="0.19655521783181357" />
+        <entry key="app/src/main/res/layout/sheet_header.xml" value="0.19655521783181357" />
+        <entry key="app/src/main/res/layout/typography_display.xml" value="0.19655521783181357" />
+        <entry key="app/src/main/res/layout/typography_heading.xml" value="0.19655521783181357" />
+        <entry key="app/src/main/res/layout/typography_label.xml" value="0.19655521783181357" />
+        <entry key="app/src/main/res/layout/typography_paragraph.xml" value="0.19655521783181357" />
+        <entry key="base/src/main/res/font/uber_move.xml" value="0.4083333333333333" />
+        <entry key="base/src/main/res/layout/grid_cell.xml" value="0.10740740740740741" />
+        <entry key="base/src/main/res/layout/options_sheet.xml" value="0.32776089159067884" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

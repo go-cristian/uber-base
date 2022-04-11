@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  >
+
+  <LinearLayout
+    style="@style/UITheme.Container.Margin"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <!--Primary-->
+    <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/primary"
+      android:textAppearance="@style/UITheme.Typography.Label"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.40"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+
+    <!--Secondary-->
+    <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/secondary"
+      android:textAppearance="@style/UITheme.Typography.Label"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.40"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+
+    <!--Tertiary-->
+    <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/tertiary"
+      android:textAppearance="@style/UITheme.Typography.Label"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.40"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+
+    <!--Primary enabled-->
+    <com.google.android.material.button.MaterialButton
+      style="@style/UITheme.Button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/sample_button_text"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.40"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+
+    <!--Primary disabled-->
+    <com.google.android.material.button.MaterialButton
+      style="@style/UITheme.Button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:enabled="false"
+      android:text="@string/sample_button_text"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.40"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+
+    <!--Secondary enabled-->
+    <com.google.android.material.button.MaterialButton
+      style="@style/UITheme.Button.Secondary"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/sample_button_text"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.40"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+
+    <!--Secondary disabled-->
+    <com.google.android.material.button.MaterialButton
+      style="@style/UITheme.Button.Secondary"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:enabled="false"
+      android:text="@string/sample_button_text"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.40"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+
+    <!--Tertiary enabled-->
+    <com.google.android.material.button.MaterialButton
+      style="@style/UITheme.Button.Tertiary"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/sample_button_text"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.40"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+
+    <!--Tertiary disabled-->
+    <com.google.android.material.button.MaterialButton
+      style="@style/UITheme.Button.Tertiary"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:enabled="false"
+      android:text="@string/sample_button_text"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.40"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+  </LinearLayout>
+</ScrollView>

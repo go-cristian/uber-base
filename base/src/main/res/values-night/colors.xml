@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--Foundation-->
+  <color name="primary_a">@color/gray_200</color>
+  <color name="primary_a_p08">@color/gray_200_p08</color>
+  <color name="primary_b">@color/gray_900</color>
+  <color name="primary_b_p20">@color/gray_900_p20</color>
+  <color name="accent">@color/blue_400</color>
+  <color name="negative">@color/red_500</color>
+  <color name="warning">@color/yellow_500</color>
+  <color name="positive">@color/green_500</color>
+  <!--Core Background-->
+  <color name="background_primary">@color/primary_b</color>
+  <color name="background_secondary">@color/gray_800</color>
+  <color name="background_tertiary">@color/gray_700</color>
+  <color name="background_inverse_primary">@color/primary_a</color>
+  <color name="background_inverse_secondary">@color/gray_300</color>
+  <!--Core Content-->
+  <color name="content_primary">@color/primary_a</color>
+  <color name="content_secondary">@color/gray_400</color>
+  <color name="content_tertiary">@color/gray_500</color>
+  <color name="content_inverse_primary">@color/primary_b</color>
+  <color name="content_inverse_secondary">@color/gray_600</color>
+  <color name="content_inverse_tertiary">@color/gray_500</color>
+  <!--Core Border-->
+  <color name="border_opaque">@color/gray_700</color>
+  <color name="border_transparent">@color/primary_a_p08</color>
+  <color name="border_selected">@color/primary_a</color>
+  <color name="border_inverse_opaque">@color/gray_400</color>
+  <color name="border_inverse_transparent">@color/primary_b_p20</color>
+  <color name="border_inverse_selected">@color/primary_b</color>
+  <!--Core Extensions Background-->
+  <color name="background_state_disabled">@color/gray_800</color>
+  <color name="background_state_pressed_primary">@color/gray_250</color>
+  <color name="background_state_pressed_secondary">@color/gray_500</color>
+  <color name="background_state_pressed_tertiary">@color/gray_700</color>
+  <color name="background_overlay_dark">@color/black_p30</color>
+  <color name="background_overlay_light">@color/black_p08</color>
+  <color name="background_accent">@color/accent</color>
+  <color name="background_negative">@color/negative</color>
+  <color name="background_warning">@color/warning</color>
+  <color name="background_positive">@color/positive</color>
+  <color name="background_light_accent">@color/blue_700</color>
+  <color name="background_light_negative">@color/red_700</color>
+  <color name="background_light_warning">@color/yellow_700</color>
+  <color name="background_light_positive">@color/green_700</color>
+  <color name="background_always_dark">@color/gray_900</color>
+  <color name="background_always_light">@color/gray_100</color>
+  <!--  Core Extensions Content-->
+  <color name="content_state_disabled">@color/gray_600</color>
+  <color name="content_on_color">@color/gray_100</color>
+  <color name="content_accent">@color/blue_300</color>
+  <color name="content_negative">@color/red_300</color>
+  <color name="content_warning">@color/yellow_300</color>
+  <color name="content_positive">@color/green_300</color>
+  <!--  Core Extensions Border-->
+  <color name="border_state_disabled">@color/gray_800</color>
+  <color name="border_accent">@color/blue_400</color>
+  <color name="border_accent_light">@color/blue_500</color>
+  <color name="border_negative">@color/red_500</color>
+  <color name="border_warning">@color/yellow_500</color>
+  <color name="border_positive">@color/green_500</color>
+</resources>

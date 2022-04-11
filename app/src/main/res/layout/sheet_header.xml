@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  >
+
+  <LinearLayout
+    style="@style/UITheme.Container.Margin"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <FrameLayout
+      style="@style/UITheme.Sheet.Header.Wrapper"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      >
+
+      <TextView
+        style="@style/UITheme.Sheet.Header.Label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sample_title"
+        />
+
+      <View
+        style="@style/UITheme.Sheet.Header.Line"
+        android:layout_width="match_parent"
+        />
+    </FrameLayout>
+
+    <FrameLayout
+      style="@style/UITheme.Sheet.Header.Wrapper"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      >
+
+      <TextView
+        style="@style/UITheme.Sheet.Header.Paragraph"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sample_desc"
+        />
+
+      <View
+        style="@style/UITheme.Sheet.Header.Line"
+        android:layout_width="match_parent"
+        />
+    </FrameLayout>
+
+    <FrameLayout
+      style="@style/UITheme.Sheet.Header.Wrapper"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      >
+
+      <LinearLayout
+        style="@style/UITheme.Sheet.Header.Inner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+          style="@style/UITheme.Sheet.Header.Label"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/sample_title"
+          />
+
+        <TextView
+          style="@style/UITheme.Sheet.Header.Paragraph"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/sample_desc"
+          />
+      </LinearLayout>
+
+      <View
+        style="@style/UITheme.Sheet.Header.Line"
+        android:layout_width="match_parent"
+        />
+    </FrameLayout>
+
+    <FrameLayout
+      style="@style/UITheme.Sheet.Header.Wrapper"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      >
+
+      <TextView
+        style="@style/UITheme.Sheet.Header.Label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sample_title"
+        />
+
+      <View
+        style="@style/UITheme.Sheet.Header.BlueLine"
+        android:layout_width="40dp"
+        />
+    </FrameLayout>
+
+    <FrameLayout
+      style="@style/UITheme.Sheet.Header.Wrapper"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      >
+
+      <TextView
+        style="@style/UITheme.Sheet.Header.Paragraph"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/sample_desc"
+        />
+
+      <View
+        style="@style/UITheme.Sheet.Header.BlueLine"
+        android:layout_width="140dp"
+        />
+    </FrameLayout>
+
+    <FrameLayout
+      style="@style/UITheme.Sheet.Header.Wrapper"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      >
+
+      <LinearLayout
+        style="@style/UITheme.Sheet.Header.Inner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+          style="@style/UITheme.Sheet.Header.Label"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:text="@string/sample_title"
+          />
+
+        <TextView
+          style="@style/UITheme.Sheet.Header.Paragraph"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:text="@string/sample_desc"
+          />
+      </LinearLayout>
+
+      <View
+        style="@style/UITheme.Sheet.Header.BlueLine"
+        android:layout_width="240dp"
+        android:layout_gravity="bottom"
+        />
+    </FrameLayout>
+
+    <FrameLayout
+      style="@style/UITheme.Sheet.Header.Wrapper"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      >
+
+      <TextView
+        style="@style/UITheme.Sheet.Header.Label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sample_title"
+        />
+
+      <dev.cgomez.uber.base.blocks.ProgressLine
+        style="@style/UITheme.Sheet.Header.BlueLine"
+        android:layout_width="match_parent"
+        />
+    </FrameLayout>
+
+    <FrameLayout
+      style="@style/UITheme.Sheet.Header.Wrapper"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      >
+
+      <TextView
+        style="@style/UITheme.Sheet.Header.Paragraph"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sample_desc"
+        />
+
+      <dev.cgomez.uber.base.blocks.ProgressLine
+        style="@style/UITheme.Sheet.Header.BlueLine"
+        android:layout_width="match_parent"
+        />
+    </FrameLayout>
+
+    <FrameLayout
+      style="@style/UITheme.Sheet.Header.Wrapper"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      >
+
+      <LinearLayout
+        style="@style/UITheme.Sheet.Header.Inner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+          style="@style/UITheme.Sheet.Header.Label"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/sample_title"
+          />
+
+        <TextView
+          style="@style/UITheme.Sheet.Header.Paragraph"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/sample_desc"
+          />
+      </LinearLayout>
+
+      <dev.cgomez.uber.base.blocks.ProgressLine
+        style="@style/UITheme.Sheet.Header.BlueLine"
+        android:layout_width="match_parent"
+        />
+    </FrameLayout>
+
+    <Space
+      style="@style/UITheme.Spacer.16"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.16"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.16"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.16"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.16"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.16"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.16"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.16"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      />
+
+    <Space
+      style="@style/UITheme.Spacer.16"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      />
+
+    <TextView
+      style="@style/UITheme.Typography.Label"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Sheet Header Drawable"
+      />
+  </LinearLayout>
+</ScrollView>
