@@ -1,15 +1,103 @@
 # Uber's Design System (Base) copycat
 
 ## What is this?
+
 Is an technical exercise to replicate Uber's system design called `Base`.
 
-All the information about components is [here](https://www.figma.com/community/file/805195278314519508)
+All the information about components
+is [here](https://www.figma.com/community/file/805195278314519508)
 
 Also check the demo apk (not signed) [here](demo/app-debug.apk)
 
+## Current components
+
+### Colors
+
+#### Primitives
+
+<img src="img/primitives.png" />
+
+#### Foundation
+
+<img src="img/foundation.png" />
+
+#### Core
+
+##### Background
+
+<img src="img/core-background.png" />
+
+##### Content
+
+<img src="img/core-content.png" />
+
+##### Border
+
+<img src="img/core-border.png" />
+
+#### Core Extensions
+
+##### Background
+
+<img src="img/core-extensions-background.png" />
+
+##### Content
+
+<img src="img/core-extensions-content.png" />
+
+##### Border
+
+<img src="img/core-extensions-border.png" />
+
+#### Typography
+
+##### Display
+
+<img src="img/typography-display.png" />
+
+##### Heading
+
+<img src="img/typography-heading.png" />
+
+##### Label
+
+<img src="img/typography-label.png" />
+
+##### Paragraph
+
+<img src="img/typography-paragraph.png" />
+
+#### Buttons
+
+##### Regular
+
+<img src="img/buttons-regular.png" />
+
+##### Square
+
+<img src="img/buttons-square.png" />
+
+##### Circle
+
+<img src="img/buttons-circle.png" />
+
+#### Progress Bars
+
+<img src="img/progress-bar.png" />
+
+#### Sheet Header
+
+<img src="img/sheet-header.png" />
+
+#### Bottom Sheet
+
+<img src="img/bottom-sheet.png" />
+
 ## OldKase
-[Oldkase](https://github.com/go-cristian/OldKASE) is a copycat library from airbnb's [showcase](https://github.com/airbnb/Showkase) who helps to create a navigation for your components.
-This projects uses this library to expose the UI system as an android App
+
+[Oldkase](https://github.com/go-cristian/OldKASE) is a copycat library from
+airbnb's [showcase](https://github.com/airbnb/Showkase) who helps to create a navigation for your
+components. This projects uses this library to expose the UI system as an android App
 
 # License
 

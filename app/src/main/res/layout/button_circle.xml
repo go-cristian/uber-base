@@ -3,10 +3,10 @@
   xmlns:app="http://schemas.android.com/apk/res-auto"
   android:layout_width="match_parent"
   android:layout_height="match_parent"
+  style="@style/UITheme.Container.Margin"
   >
 
   <LinearLayout
-    style="@style/UITheme.Container.Margin"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
@@ -45,15 +45,20 @@
       android:layout_height="wrap_content"
       />
 
-
-    <com.google.android.material.button.MaterialButton
-      style="@style/UITheme.Button.IconOnly"
+    <dev.cgomez.uber.base.blocks.CircleView
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:enabled="false"
-      app:cornerSize="24dp"
-      app:icon="@drawable/hearth"
-      />
+      >
+
+      <com.google.android.material.button.MaterialButton
+        style="@style/UITheme.Button.IconOnly"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:enabled="false"
+        app:cornerSize="24dp"
+        app:icon="@drawable/hearth"
+        />
+    </dev.cgomez.uber.base.blocks.CircleView>
 
     <Space
       style="@style/UITheme.Spacer.40"
@@ -74,12 +79,18 @@
       android:layout_height="wrap_content"
       />
 
-    <com.google.android.material.button.MaterialButton
-      style="@style/UITheme.Button.IconOnly.Secondary"
+    <dev.cgomez.uber.base.blocks.CircleView
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      app:icon="@drawable/hearth"
-      />
+      >
+
+      <com.google.android.material.button.MaterialButton
+        style="@style/UITheme.Button.IconOnly.Secondary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:icon="@drawable/hearth"
+        />
+    </dev.cgomez.uber.base.blocks.CircleView>
 
     <Space
       style="@style/UITheme.Spacer.40"
@@ -87,13 +98,19 @@
       android:layout_height="wrap_content"
       />
 
-    <com.google.android.material.button.MaterialButton
-      style="@style/UITheme.Button.IconOnly.Tertiary"
+    <dev.cgomez.uber.base.blocks.CircleView
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:enabled="false"
-      app:icon="@drawable/hearth"
-      />
+      >
+
+      <com.google.android.material.button.MaterialButton
+        style="@style/UITheme.Button.IconOnly.Tertiary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:enabled="false"
+        app:icon="@drawable/hearth"
+        />
+    </dev.cgomez.uber.base.blocks.CircleView>
 
     <Space
       style="@style/UITheme.Spacer.40"
@@ -115,13 +132,19 @@
       android:layout_height="wrap_content"
       />
 
-    <com.google.android.material.button.MaterialButton
-      style="@style/UITheme.Button.IconOnly.Secondary"
+    <dev.cgomez.uber.base.blocks.CircleView
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:enabled="false"
-      app:icon="@drawable/hearth"
-      />
+      >
+
+      <com.google.android.material.button.MaterialButton
+        style="@style/UITheme.Button.IconOnly.Secondary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:enabled="false"
+        app:icon="@drawable/hearth"
+        />
+    </dev.cgomez.uber.base.blocks.CircleView>
 
     <Space
       style="@style/UITheme.Spacer.40"
@@ -129,58 +152,24 @@
       android:layout_height="wrap_content"
       />
 
-    <com.google.android.material.button.MaterialButton
-      style="@style/UITheme.Button.IconOnly.Tertiary"
+    <dev.cgomez.uber.base.blocks.CircleView
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      app:icon="@drawable/hearth"
-      />
+      >
+
+      <com.google.android.material.button.MaterialButton
+        style="@style/UITheme.Button.IconOnly.Tertiary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:icon="@drawable/hearth"
+        />
+    </dev.cgomez.uber.base.blocks.CircleView>
 
     <Space
       style="@style/UITheme.Spacer.40"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       />
-
-
-
-    <!--Tertiary-->
-
-
-    <dev.cgomez.uber.base.blocks.CircleView
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      >
-
-    </dev.cgomez.uber.base.blocks.CircleView>
-
-    <dev.cgomez.uber.base.blocks.CircleView
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      >
-
-    </dev.cgomez.uber.base.blocks.CircleView>
-
-    <dev.cgomez.uber.base.blocks.CircleView
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      >
-
-    </dev.cgomez.uber.base.blocks.CircleView>
-
-    <dev.cgomez.uber.base.blocks.CircleView
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      >
-
-    </dev.cgomez.uber.base.blocks.CircleView>
-
-    <dev.cgomez.uber.base.blocks.CircleView
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      >
-
-    </dev.cgomez.uber.base.blocks.CircleView>
 
   </LinearLayout>
 </ScrollView>

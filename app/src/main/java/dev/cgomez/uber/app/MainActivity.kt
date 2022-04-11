@@ -24,16 +24,6 @@ internal fun AppCompatActivity.replace(fragment: Fragment) {
 }
 
 @MainThread
-internal fun Fragment.replace(fragment: Fragment) {
-  replaceFragment(fragment, R.id.content)
-}
-
-@MainThread
-internal fun AppCompatActivity.add(fragment: Fragment) {
-  addFragment(fragment, R.id.content)
-}
-
-@MainThread
 internal fun Fragment.add(fragment: Fragment) {
   addFragment(fragment, R.id.content)
 }
