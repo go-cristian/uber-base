@@ -15,83 +15,83 @@ Also check the demo apk (not signed) [here](demo/app-debug.apk)
 
 #### Primitives
 
-<img src="img/primitives.png" />
+<img src="img/primitives.png" width="200"/>
 
 #### Foundation
 
-<img src="img/foundation.png" />
+<img src="img/foundation.png" width="200"/>
 
 #### Core
 
 ##### Background
 
-<img src="img/core-background.png" />
+<img src="img/core-background.png" width="200"/>
 
 ##### Content
 
-<img src="img/core-content.png" />
+<img src="img/core-content.png" width="200"/>
 
 ##### Border
 
-<img src="img/core-border.png" />
+<img src="img/core-border.png" width="200"/>
 
 #### Core Extensions
 
 ##### Background
 
-<img src="img/core-extensions-background.png" />
+<img src="img/core-extensions-background.png" width="200"/>
 
 ##### Content
 
-<img src="img/core-extensions-content.png" />
+<img src="img/core-extensions-content.png" width="200"/>
 
 ##### Border
 
-<img src="img/core-extensions-border.png" />
+<img src="img/core-extensions-border.png" width="200"/>
 
 #### Typography
 
 ##### Display
 
-<img src="img/typography-display.png" />
+<img src="img/typography-display.png" width="200"/>
 
 ##### Heading
 
-<img src="img/typography-heading.png" />
+<img src="img/typography-heading.png" width="200"/>
 
 ##### Label
 
-<img src="img/typography-label.png" />
+<img src="img/typography-label.png" width="200"/>
 
 ##### Paragraph
 
-<img src="img/typography-paragraph.png" />
+<img src="img/typography-paragraph.png" width="200"/>
 
 #### Buttons
 
 ##### Regular
 
-<img src="img/buttons-regular.png" />
+<img src="img/buttons-regular.png" width="200"/>
 
 ##### Square
 
-<img src="img/buttons-square.png" />
+<img src="img/buttons-square.png" width="200"/>
 
 ##### Circle
 
-<img src="img/buttons-circle.png" />
+<img src="img/buttons-circle.png" width="200"/>
 
 #### Progress Bars
 
-<img src="img/progress-bar.png" />
+<img src="img/progress-bar.png" width="200"/>
 
 #### Sheet Header
 
-<img src="img/sheet-header.png" />
+<img src="img/sheet-header.png" width="200"/>
 
 #### Bottom Sheet
 
-<img src="img/bottom-sheet.png" />
+<img src="img/bottom-sheet.png" width="200"/>
 
 ## OldKase
 
