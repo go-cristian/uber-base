@@ -3,7 +3,9 @@
 ## What is this?
 Is an technical exercise to replicate Uber's system design called `Base`.
 
-All the information about components is [here](https://www.figma.com/community/file/805195278314519508) 
+All the information about components is [here](https://www.figma.com/community/file/805195278314519508)
+
+Also check the demo apk (not signed) [here](demo/app-debug.apk)
 
 ## OldKase
 [Oldkase](https://github.com/go-cristian/OldKASE) is a copycat library from airbnb's [showcase](https://github.com/airbnb/Showkase) who helps to create a navigation for your components.
