@@ -9,6 +9,65 @@ is [here](https://www.figma.com/community/file/805195278314519508)
 
 Also check the demo apk (not signed) [here](demo/app-debug.apk)
 
+#Pending work
+- Use small. medium, large for buttons
+- Tags
+- Badge
+- Button group
+- Button docked
+- Control/Switch
+- Control/Check
+- Control/Radio
+- Control/Pagination
+- Control/Grabber
+- Control/Sheet Grabber
+- Control/Stepper
+- Control/Slider
+- Map
+- Map/Markers
+- Map/Elements & Overlays
+- Map/Floating markers
+- Tabs
+- Bottom navigation
+- Progress (all components)
+- List Heading
+- List Item Core
+- List Item Control
+- Header
+- Tooltip
+- Sheet Header
+- Snackbars
+- Banner/Accent
+- Banner/Positive
+- Banner/Warning
+- Banner/Negative
+- System Banner/Accent
+- System Banner/Positive
+- System Banner/Warning
+- System Banner/Negative
+- Input/Small/Simple
+- Input/Small/Payment Card
+- Input/Small/Search
+- Input/Small/Leading Selector
+- Input/Small/Trailing Selector
+- Input/Small/Pin
+- Input/Small/Multiple line
+- Input/Small/Country
+- Input/Small/Enhancer label leading
+- Input/Small/Enhancer label trailing
+- Input/Small/Enhancer label leading + trailing
+- Input/Small/Enhancer icon leading
+- Input/Small/Enhancer icon trailing
+- Input/Small/Enhancer icon leading + trailing
+- Input/Small/Tag
+- Components for Input in medium/large/emphasis
+- Input/File Drop
+- Select/ Small - Medium - Large
+- Datepicker
+- Pagination/ Small - Medium - Large
+- Card
+- Modal
+
 ## Current components
 
 ### Colors
